@@ -8,7 +8,7 @@ int main()
 
     while(rejouer == 1)
     {
-    printf("--- Jeux  plus ou moins par Lorenz ---\n\n");
+    printf("--- Jeux  plus ou moins ---\n\n");
     printf("--- MENU CHOIX NIVEAU ---\n\n");
     printf("1. Entre 1 et 100\n");
     printf("2. Entre 1 et 1000\n");
